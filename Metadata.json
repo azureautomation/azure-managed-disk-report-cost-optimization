@@ -1,0 +1,20 @@
+{
+    "Author": "kbotha",
+    "ContentSize": 17365,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-managed-disk-report-cost-optimization/master/ARMDiskOptimizationReport.ps1",
+    "DownloadCount": 678,
+    "Id": "Azure-Managed-Disk-Report-a11a4804",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 245,
+    "RaterCount": 6,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-6-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Azure managed Disk optimization report. The script will identify and Map Azure Managedisk to OS disk. It can also give a recommendation on Drive space based on Sku and sizing. Pricing might not be accurate and can be updated via https://azure.microsoft.com/en-us/pricing/details/m",
+    "Title": "Azure Managed Disk Report - Cost Optimization",
+    "UpdatedDate": "2019-10-4T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-managed-disk-report-cost-optimization",
+    "UserTags": "Azure Managed Disk, Azure Disk, Azure Cost"
+}
